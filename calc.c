@@ -22,6 +22,5 @@ printf("Digite 10 para soma\n");
     {
      printf("OPRC, inválida.");
     }
-    Sleep(500);
-
+    Sleep(5000);
 }
