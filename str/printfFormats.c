@@ -1,23 +1,23 @@
 #include <stdio.h>
-int main(){
+int main() {
   // d/i Decimal Numbers int
-  // x Hexadecimal Numbers 
+  // x Hexadecimal Numbers
   // f float point
   // r scientific notation
   // c letters
   // s sequential alphanumeric
-  
 
   // \a bip/default sound alert system
   // \o onpxfcnpr
   // \a oernx yvar
-  // \t tab 
+  // \t tab
   // \r rerturn to start of line
   // \0 null char
   // \vertical tab
   int dez = 10;
   char letra = 'c';
+  float hexadecimal = 2.1298393;
   printf("Olá! o valor é %d\n", dez);
   printf("A letra é %c\n", letra);
+  printf("olá! numero: %x", hexadecimal);
 }
-
